@@ -100,4 +100,4 @@ Our website has been designed to be user-friendly and intuitive. Below are scree
 
 For a detailed walkthrough of our project, watch the demo video on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Paddy Procurement System](https://img.youtube.com/vi/57x8lfum6zA/maxresdefault.jpg)](https://www.youtube.com/watch?v=57x8lfum6zA)
